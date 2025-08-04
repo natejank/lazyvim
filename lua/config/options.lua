@@ -8,3 +8,6 @@ vim.opt.clipboard = ""
 vim.g.snacks_animate = false
 -- use basedpyright instead of pyright
 vim.g.lazyvim_python_lsp = "basedpyright"
+-- disable relative line numbers
+vim.opt.relativenumber = false
+vim.opt.colorcolumn = { 80, 120 } -- show a column at 80 & 120 chars
