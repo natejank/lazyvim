@@ -6,6 +6,8 @@
 vim.opt.clipboard = ""
 -- disable animations
 vim.g.snacks_animate = false
+-- disable autoformat
+vim.g.autoformat = false
 -- use basedpyright instead of pyright
 vim.g.lazyvim_python_lsp = "basedpyright"
 -- disable relative line numbers
