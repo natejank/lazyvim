@@ -1,0 +1,8 @@
+{
+	"lspconfig": {
+		"basedpyright": {
+			"basedpyright.analysis.typeCheckingMode": "basic",
+			"basedpyright.disableOrganizeImports": true,
+		}
+	}
+}
