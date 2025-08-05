@@ -11,4 +11,6 @@ return {
 
   -- Disable bufferline
   { "https://github.com/akinsho/bufferline.nvim", enabled = false },
+  -- Disable noice
+  { "https://github.com/folke/noice.nvim", enabled = false },
 }
